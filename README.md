@@ -1,4 +1,4 @@
-# Update for unpacked ROB_SLAM with pcl view repo
+# ORB_SLAM with dense map and kinect2 support
 
 ## build:
 
